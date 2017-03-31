@@ -1,5 +1,7 @@
 Name of APP: Chicago Rentals
 
+Author:Jhon Sedano
+
 Keywords: security, price, distance
 
 Datasets: In this phase, i did not use datasets, that is what i hope to do for the next one.

@@ -21,10 +21,10 @@ p.search{
 	padding-top: 2em;
 }
 body.s{
-	background-image: url("/Pictures/Chicago1.jpg");
+	background-image: url("./Pictures/Chicago1.jpg");
 }
 body.s1{
-	background-image: url("/Pictures/Chicago2.jpg");
+	background-image: url("./Pictures/Chicago2.jpg");
 }
 p.introTitle{
 	font-size: 30px;

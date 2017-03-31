@@ -28,3 +28,8 @@ Interaction Form:
 <li/>Any operation option (filters)? List them. (search markets, search vegetables, filter based on price, sort based on convenience ...):[N]<br/>
 <li/>Interaction with Map? List them. (filter on price will affect map markers, sort on price will affect map markers, ...):[N]<br/>
 <li/>Interaction with data visualization? List them. (filter, sort, set variables ...):[N]<br/>
+
+The pictures have been taken from the following links:
+
+<li/>http://eskipaper.com/images/chicago-sunset-3.jpg
+<li/>http://chicagoarchitecturebiennial.org/site/assets/files/1137/iwan.jpg
